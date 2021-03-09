@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 10px;
+  background: #bfffbf;
+}
+.wrapper {
+  width: 240px;
+  height: 80px;
+  font-size: 14px;
+  color: #333333;
+}
+
+a {
+  display: inline-block;
+  color: #904DF8;
+  text-decoration: underline;
+  cursor: pointer;
+}
