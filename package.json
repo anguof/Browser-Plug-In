@@ -1,7 +1,7 @@
 {
-  "name": "HMM-Tool",
+  "name": "Plugin",
   "version": "1.0.3",
-  "description": "HMM Tool",
+  "description": "Plugin Tool",
   "scripts": {
     "build": "node utils/build.js",
     "start": "node utils/webserver.js"
